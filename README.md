@@ -38,3 +38,6 @@ DiceMaster
 https://goodgame.ru/api/getchannelstatus?id=Miker
 
 Исходный код прилагается
+
+## Обратная связь
+Можно обращаться с предолжениями например в [VK](https://vk.com/day0dreamer)
