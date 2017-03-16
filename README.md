@@ -9,6 +9,7 @@
 ## Конфигурация 
 
 streamers.cfg содержит список каналов на гудгейме, так как мы видим их в ссылке на их канал
+
 https://goodgame.ru/channel/Artistthe/#autoplay
 
 https://goodgame.ru/channel/DiceMaster/#autoplay
