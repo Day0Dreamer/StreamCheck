@@ -4,15 +4,13 @@
 
 ## Установка
 
-Скачать последнюю версию из * [Release](https://github.com/Day0Dreamer/StreamCheck/tree/master/Release)  и распаковать в любую папку.
+Скачать последнюю версию из [Release](https://github.com/Day0Dreamer/StreamCheck/tree/master/Release)  и распаковать в любую папку.
 
 ## Конфигурация 
 
 streamers.cfg содержит список каналов на гудгейме, так как мы видим их в ссылке на их канал
 https://goodgame.ru/channel/Artistthe/#autoplay
-
 https://goodgame.ru/channel/DiceMaster/#autoplay
-
 записываются как:
 ```
 Artistthe
@@ -24,9 +22,9 @@ DiceMaster
 ## Запуск программы
 Запустив stream_check.exe появится окно показывающее работу программы
 
-Статус Dead значит что стрим мёртв.
-Статус Live значит что стрим жив.
-Ваш Кэп.
+* Статус Dead значит что стрим мёртв.
+* Статус Live значит что стрим жив.
+* Ваш Кэп.
 
 Опрос каналов производится каждую минуту.
 
